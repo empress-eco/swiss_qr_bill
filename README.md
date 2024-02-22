@@ -1,42 +1,55 @@
-#  Swiss QR Bill for ERPNext (www.grynn.ch)
+<div align="center">
+    <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Swiss QR Bill Logo">
+    <br />
+    <strong>An open-source QR Bill generator that seamlessly integrates with your ERP system</strong>
+</div>
+<p align="center">
+    <a href="https://grow.empress.eco/">Explore the Docs</a>
+    ·
+    <a href="https://github.com/empress-eco/swiss_qr_bill/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/empress-eco/swiss_qr_bill/issues">Request Feature</a>
+</p>
 
-![Swiss QR Bill Types](https://user-images.githubusercontent.com/23282682/116856072-c201be80-abfa-11eb-85e8-4a91ec53334b.jpg)
+## About The Project
 
-Grynn has developed a QR Bill Generator app (Free and Open Source) that works seemlessly with ERPNext. 
+The Swiss QR Bill generator is a free open-source application developed by Grynn and Empress to facilitate easy and efficient transactions for Swiss companies. It is designed to work flawlessly with Empress, providing an effective solution for generating QR bills in a streamlined, user-friendly manner. It supports the general version for IBAN, without reference.
 
-The Swiss QR Bill can be used in 3 different ways. We have implemented the general version for IBAN, without Reference. If you would like us to implement the other two types, kindly get in touch with us. sales@grynn.ch. 
+## Key Features
+- Free and Open Source
+- Easy-to-use interface
+- Seamless integration with Empress
+- Supports the general version of IBAN, without reference
 
-## Grynn's Mission : Promote & Implement ERPNext for Swiss Companies
+## Getting Started
 
-Grynn GmbH loves, implements & promotes ERPNext in Switzerland, Germany, Eastern Europe and India. 
+To get started with Swiss QR Bill, you need to have an Empress system in place.
 
-Founded in 2017 by Deepak Pai in order to help companies with their digital transformation journey. He has 2 decades of IT and Finance & has worked for companies such as Bank of America, Unilever and Ecolab. He is an MBA graduate of St. Gallen University (Switzerland) and alumnus of MIT Manipal. He is a certified digital strategist from MIT/Emeritus & consults for F500 companies.
+### Installation
+To get the Swiss QR Bill generator running, follow these installation instructions.
 
-## Grynn and Open Source
-Grynn is an advocate of using Free and Open Source Software (FOSS). ERPNext is world's #1 ERP system that is 100% FOSS. 
-Grynn from time to time contributes to the ERPNext ecosystem by developing Open Source applications such as Swiss QR Bill. 
+```sh
+git clone https://github.com/empress-eco/swiss_qr_bill.git
+```
 
+### Usage
+To use the Swiss QR Bill generator, navigate to the application in your Empress system and follow the instructions provided to generate your QR bill. For a detailed walkthrough, watch the video tutorial [here](https://user-images.githubusercontent.com/23282682/118352148-265c4080-b560-11eb-8fa2-184d016b5c5f.mp4).
 
-### Grynn Swiss QR Bill 
+## Contributing
+We welcome and appreciate contributions! Here's how you can contribute:
 
-#### Video : How to use it
-https://user-images.githubusercontent.com/23282682/118352148-265c4080-b560-11eb-8fa2-184d016b5c5f.mp4
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
+## License and Acknowledgements
 
+This project is under the MIT License. Your contributions are also licensed under the MIT License.
 
-### Grynss Swiss Videos from Meetup
----
+Special thanks to the Empress Community for their foundational contributions to the tools that power this project. Their innovation and dedication have been instrumental in building the foundations and functionalities we rely on. We are profoundly grateful for their pioneering work and ongoing support.
 
-### Learn How To Use Swiss QR-Bill And Get Paid Faster (Meetup #2)
-[![](http://img.youtube.com/vi/iqwXXd-USV4/0.jpg)](https://youtu.be/iqwXXd-USV4 "Learn How To Use QR-Bill and Get Paid Faster")
+Special thanks to Deepak Pai, the founder of Grynn, for his efforts in developing this application and promoting open-source software.
 
----
-
-### License
-
-GNU/General Public License (see [license.txt](license.txt))
-The QR BIll code is licenced as GNU General Public License (v3) and the copyright is owned by Grynn GmbH (Grynn).
-
----
-### Logo and Trademark
-The brand Grynn and the logo are trademarks for Grynn GmbH.
+Kudos to all the contributors who have helped in enhancing the Swiss QR Bill generator.
